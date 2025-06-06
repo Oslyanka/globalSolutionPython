@@ -23,9 +23,6 @@ O sistema analisa vídeos e usa pontos do corpo (pose estimation) para verificar
 
 Quando um risco é identificado, o alerta é exibido na tela.
 
-## Vídeo Demonstrativo
-[Link do vídeo demonstrativo no YouTube](https://youtu.be/SEU_LINK_AQUI)
-
 ## Como Executar
 
 1. Instale as dependências:
